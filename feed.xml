@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UIST勉強会</title>
+    <description>UIST勉強会のお知らせページです</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 13 Nov 2019 11:32:55 +0900</pubDate>
+    <lastBuildDate>Wed, 13 Nov 2019 11:32:55 +0900</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>UIST2019勉強会 開催のお知らせ</title>
+        <description>&lt;h2 id=&quot;概要&quot;&gt;概要&lt;/h2&gt;
+
+&lt;p&gt;UIST 勉強会は、The ACM Symposium on User Interface Software and Technology (UIST) の論文を対象に、自分の興味関心のある研究の発見や最新動向の把握を目的としています。&lt;/p&gt;
+
+&lt;p&gt;発表者の皆様には&lt;a href=&quot;https://uist.acm.org/uist2019/&quot;&gt;UIST2019&lt;/a&gt;で発表された論文を 1 本最大 2 ページのスライドにまとめ、2 分以内で発表していただきます。&lt;/p&gt;
+
+&lt;p&gt;また今年は、UIST2019 で論文を発表した方から、当時の苦労話や会場で感じたこと、採択のために重要だったことなどを話していただきます。&lt;/p&gt;
+
+&lt;p&gt;講演者&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;・石井綾郁（お茶の水女子大学）&lt;/li&gt;
+  &lt;li&gt;・鳴海紘也（東京大学）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;color: darkgray&quot;&gt;※ 勉強会中の様子は記録用のため撮影および録画されることがあります。外部へ公開する目的ではありませんので、ご了承ください。撮影・録画をされたくない方がいらっしゃいましたら当日幹事まで申し付けください。&lt;/p&gt;
+
+&lt;h2 id=&quot;日時&quot;&gt;日時&lt;/h2&gt;
+
+&lt;p&gt;2019/12/14 13:00~17:00（開場 12:30）&lt;/p&gt;
+
+&lt;h2 id=&quot;会場&quot;&gt;会場&lt;/h2&gt;
+
+&lt;p&gt;東京大学大学院情報学環 &lt;a href=&quot;http://www.u-tokyo.ac.jp/en/whyutokyo/hongo_hi_003.html&quot;&gt;ダイワユビキタス学術研究館&lt;/a&gt; 3F 大和ハウス石橋信夫記念ホール&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12958.943980633127!2d139.7626785!3d35.7081138!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xdc3797c740b08479!2z44OA44Kk44Ov44Om44OT44Kt44K_44K55a2m6KGT56CU56m26aSo!5e0!3m2!1sja!2sjp!4v1573184805242!5m2!1sja!2sjp&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;プログラム&quot;&gt;プログラム&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;12:30 - 開場&lt;/li&gt;
+  &lt;li&gt;13:00 - 13:05 オープニング&lt;/li&gt;
+  &lt;li&gt;13:05 - 13:30 UIST2019 採択者による講演&lt;/li&gt;
+  &lt;li&gt;13:30 - 15:10 セッション 1&lt;/li&gt;
+  &lt;li&gt;15:15 - 16:55 セッション 2&lt;/li&gt;
+  &lt;li&gt;16:55 - 17:00 クロージング&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;参加費&quot;&gt;参加費&lt;/h2&gt;
+
+&lt;p&gt;無料&lt;/p&gt;
+
+&lt;h2 id=&quot;参加方法&quot;&gt;参加方法&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-発表申し込み&quot;&gt;1. 発表申し込み&lt;/h3&gt;
+
+&lt;p&gt;次の手順で申し込みをしてください。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1OYGmvSq6Q_QkSKiEzR8RVDdWbIb4DYCQjvhbM-AhNKo/edit#gid=0&quot;&gt;こちら&lt;/a&gt;から発表したい論文の担当者名記入列に自分の名前を記入する。&lt;strong&gt;プルダウンを変更することを忘れずに！&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; &lt;a href=&quot;https://forms.gle/fkYqDxsy2c2HoN6k8&quot;&gt;こちら&lt;/a&gt;から発表申し込みをしてください。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;以上で完了、当日お待ちしております。
+発表スライドの提出をお忘れなく！&lt;/p&gt;
+
+&lt;p&gt;提出期限は&lt;strong&gt;2019/12/11 23:59&lt;/strong&gt;です。&lt;/p&gt;
+
+&lt;p&gt;発表形式はページ下の&lt;strong&gt;発表について&lt;/strong&gt;を御覧ください。&lt;/p&gt;
+
+&lt;p&gt;遠隔地からの発表もお待ちしております。 遠隔発表を希望の方は参加登録時にメールアドレスの欄に Skype も併記してください。&lt;/p&gt;
+
+&lt;h3 id=&quot;2-聴講申し込み&quot;&gt;2. 聴講申し込み&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/fkYqDxsy2c2HoN6k8&quot;&gt;こちら&lt;/a&gt;から申し込みをしてください。&lt;/p&gt;
+
+&lt;p&gt;以上で完了、当日お待ちしております。&lt;/p&gt;
+
+&lt;h2 id=&quot;幹事&quot;&gt;幹事&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;加藤 邦拓（東京大学） kkunihir@acm.org&lt;/li&gt;
+  &lt;li&gt;鳴海 紘也（東京大学） narumi@akg.t.u-tokyo.ac.jp&lt;/li&gt;
+  &lt;li&gt;松田 暁（東京大学） akiramatsuda@g.ecc.u-tokyo.ac.jp&lt;/li&gt;
+  &lt;li&gt;佐々木 克仁（東京大学）katsuhito1203@gmail.com&lt;/li&gt;
+  &lt;li&gt;蒋 仕心（東京大学） lenejiang011@gmail.com&lt;/li&gt;
+  &lt;li&gt;三浦 亮太朗（東京大学）m.ryoppippi@gmail.com&lt;/li&gt;
+  &lt;li&gt;荒川 陸（東京大学） arakawa@star.rcast.u-tokyo.ac.jp&lt;/li&gt;
+  &lt;li&gt;田中 雄大（東京大学）tanaka-yudai327@g.ecc.u-tokyo.ac.jp&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;発表について&quot;&gt;発表について&lt;/h2&gt;
+
+&lt;p&gt;1 論文 1 分 30 秒〜2 分で発表をお願いします。&lt;/p&gt;
+
+&lt;p&gt;時間内に論文の紹介を終えられない場合は、「詳しくは論文を読んでください！」と発表を終えても構いません。&lt;/p&gt;
+
+&lt;h2 id=&quot;発表スライドの作り方&quot;&gt;発表スライドの作り方&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-論文データの取得&quot;&gt;&lt;strong&gt;1&lt;/strong&gt; 論文データの取得&lt;/h3&gt;
+
+&lt;p&gt;論文は ACM Digital Library で見つけることが出来ます。&lt;/p&gt;
+
+&lt;p&gt;Proceedings は&lt;a href=&quot;http://uist.acm.org/uist2019/program/toc.html&quot;&gt;こちら&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id=&quot;2-awards-かを調べる&quot;&gt;&lt;strong&gt;2&lt;/strong&gt; Awards かを調べる&lt;/h3&gt;
+
+&lt;p&gt;担当論文が何らかの Award を授与されている場合はその旨を記載してください。&lt;/p&gt;
+
+&lt;p&gt;Award を授与されている論文は&lt;a href=&quot;http://uist.acm.org/uist2019/program/&quot;&gt;こちら&lt;/a&gt;のページ中にある優勝カップマーク（best paper）及びメダルマーク（honorable mention）を参照してください。&lt;/p&gt;
+
+&lt;h3 id=&quot;3-自己紹介スライドを作る&quot;&gt;&lt;strong&gt;3&lt;/strong&gt; 自己紹介スライドを作る&lt;/h3&gt;
+
+&lt;p&gt;今回の勉強会では、参加者の交流を深めるため、発表の初めに（論文紹介の 2 分とは別に）簡単な自己紹介をすることを推奨しています。
+自分の研究やお仕事の内容など自由に 1 スライドにまとめてください。
+発表の初めに 30 秒以内で自己紹介をしてください。&lt;/p&gt;
+
+&lt;h3 id=&quot;4-発表スライドを作る&quot;&gt;&lt;strong&gt;4&lt;/strong&gt; 発表スライドを作る&lt;/h3&gt;
+
+&lt;p&gt;1 論文につき最大 2 スライドで資料を作成してください。
+スライドは&lt;strong&gt;16:9&lt;/strong&gt;で作成してください。
+できるだけ図や写真を取り入れることを心がけてください。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;必須事項&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;・論文タイトル&lt;/li&gt;
+  &lt;li&gt;・著者＋所属&lt;/li&gt;
+  &lt;li&gt;・画像（効果的に活用してください）&lt;/li&gt;
+  &lt;li&gt;・Award を授与されているか&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/z00a96txqswvfxy/UISTudy_slide_example.pdf?dl=0&quot;&gt;こちら&lt;/a&gt;のスライドのレイアウトを参考に作成してください。&lt;/p&gt;
+
+&lt;h3 id=&quot;5-提出&quot;&gt;&lt;strong&gt;5&lt;/strong&gt; 提出&lt;/h3&gt;
+
+&lt;p&gt;最終的なスライド構成は「自己紹介スライド（1 枚）」＋「論文紹介スライド（1~2 枚）」× (発表する論文数)となります。
+自己紹介スライドは発表スライドの 1 ページ目に挿入してください。&lt;/p&gt;
+
+&lt;p&gt;発表スライドは DropBox へ提出となります。&lt;strong&gt;PDF 形式&lt;/strong&gt;で提出してください。&lt;/p&gt;
+
+&lt;p&gt;ファイル名は担当論文の中で一番小さい論文番号 +名前にしてください（例: 担当論文が 2 と 32 と 54 の人 →「02_松田暁.pdf」）。&lt;/p&gt;
+
+&lt;p&gt;提出先：&lt;a href=&quot;https://www.dropbox.com/request/Z2QubDF6QGW7lg8YTS25&quot;&gt;こちら&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;発表用-pc-について&quot;&gt;発表用 PC について&lt;/h2&gt;
+
+&lt;p&gt;発表用 PC は運営が用意したものを使用します。&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Nov 2019 00:00:00 +0900</pubDate>
+        <link>/2019/uistudy-2019/</link>
+        <guid isPermaLink="true">/2019/uistudy-2019/</guid>
+        
+        <category>study</category>
+        
+        <category>uist</category>
+        
+        
+        <category>study</category>
+        
+      </item>
+    
+      <item>
+        <title>UIST2018勉強会 開催のお知らせ</title>
+        <description>&lt;h2 id=&quot;概要&quot;&gt;概要&lt;/h2&gt;
+&lt;p&gt;UIST勉強会はThe ACM Symposium on User Interface Software and Technology (UIST)の論文を対象に最新動向の把握や自分の興味関心のある研究の発見を目的としています。&lt;/p&gt;
+
+&lt;p&gt;発表者の皆様には&lt;a href=&quot;https://uist.acm.org/uist2018/&quot;&gt;UIST2018&lt;/a&gt;で発表された論文を1本最大2ページのスライドにまとめ、2分程度で発表してもらいます。&lt;/p&gt;
+
+&lt;h2 id=&quot;日時&quot;&gt;日時&lt;/h2&gt;
+&lt;p&gt;2018/12/15 14:00~17:00（開場 13:00）&lt;/p&gt;
+
+&lt;h2 id=&quot;会場&quot;&gt;会場&lt;/h2&gt;
+&lt;p&gt;東京大学大学院情報学環・学際情報学府&lt;/p&gt;
+
+&lt;p&gt;本郷キャンパス・ダイワユビキタス学術研究館
+3F石橋記念ホール&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d809.9385245151691!2d139.76140981295168!3d35.70766838692413!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c24b4b839df%3A0xdc3797c740b08479!2z44OA44Kk44Ov44Om44OT44Kt44K_44K55a2m6KGT56CU56m26aSo!5e0!3m2!1sja!2sjp!4v1540347656285&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;参加費&quot;&gt;参加費&lt;/h2&gt;
+&lt;p&gt;無料&lt;/p&gt;
+
+&lt;h2 id=&quot;参加方法&quot;&gt;参加方法&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-発表申し込み&quot;&gt;1. 発表申し込み&lt;/h3&gt;
+&lt;p&gt;次の手順で申し込みをしてください。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1tXEGsV5RI7q7T9eY9k2e37cwQmG-CBPOS7YvGvAz8As/edit?usp=sharing&quot;&gt;こちら&lt;/a&gt;から発表したい論文の担当者名記入列に自分の名前を記入する。&lt;strong&gt;&lt;em&gt;プルダウンを変更することを忘れずに！&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSdmUjbRyqDLiHJMMbNcF3U8er4wmZudYrylOA8BcdMOohqH9A/viewform&quot;&gt;こちら&lt;/a&gt;から発表申込をしてください。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;以上で完了、当日お待ちしております。
+発表スライドの提出をお忘れなく！&lt;/p&gt;
+
+&lt;p&gt;提出期限は &lt;strong&gt;2018/12/12 23:59&lt;/strong&gt; です。&lt;/p&gt;
+
+&lt;p&gt;発表形式はページ下の&lt;strong&gt;発表について&lt;/strong&gt;を御覧ください。&lt;/p&gt;
+
+&lt;p&gt;遠隔地からの発表もお待ちしております。
+遠隔発表を希望の方は参加登録時にメールアドレスの欄にSkypeも併記してください。&lt;/p&gt;
+
+&lt;h2 id=&quot;幹事&quot;&gt;幹事&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://site.kkunihir.com/&quot;&gt;加藤 邦拓&lt;/a&gt;（東京大学） kkunihir@acm.org&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.narumi.me/&quot;&gt;鳴海 紘也&lt;/a&gt;（東京大学） narumi@akg.t.u-tokyo.ac.jp&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.0x0c.me/&quot;&gt;松田 暁&lt;/a&gt;（東京大学） akiramatsuda@g.ecc.u-tokyo.ac.jp&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;（カナ順）&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;発表について&quot;&gt;発表について&lt;/h2&gt;
+&lt;p&gt;1論文1分30秒〜2分で発表をお願いします。&lt;/p&gt;
+
+&lt;p&gt;時間内に論文の紹介を終えられない場合は、「詳しくは論文を読んでください！」と発表を終えても構いません。&lt;/p&gt;
+
+&lt;h2 id=&quot;発表スライドの作り方&quot;&gt;発表スライドの作り方&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-論文データの取得&quot;&gt;&lt;strong&gt;1&lt;/strong&gt; 論文データの取得&lt;/h3&gt;
+&lt;p&gt;論文はACM Digital Libraryで見つけることが出来ます。&lt;/p&gt;
+
+&lt;p&gt;Proceedingsは&lt;a href=&quot;https://uist.acm.org/uist2018/pages/toc.html&quot;&gt;こちら&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id=&quot;2-awardsかを調べる&quot;&gt;&lt;strong&gt;2&lt;/strong&gt; Awardsかを調べる&lt;/h3&gt;
+&lt;p&gt;担当論文が何らかのAwardを授与されている場合はその旨を記載してください。&lt;/p&gt;
+
+&lt;p&gt;Awardを授与されている論文は&lt;a href=&quot;https://uist.acm.org/uist2018/&quot;&gt;こちら&lt;/a&gt;のAwardsを御覧ください。&lt;/p&gt;
+
+&lt;h3 id=&quot;3-自己紹介スライドを作る&quot;&gt;&lt;strong&gt;3&lt;/strong&gt; 自己紹介スライドを作る&lt;/h3&gt;
+&lt;p&gt;今回の勉強会では、参加者の交流を深めるため、発表の初めに簡単な自己紹介をすることを推奨しています。
+自分の研究やお仕事の内容など自由に1スライドにまとめてください。
+発表の初めに30秒以内で自己紹介をしてください。&lt;/p&gt;
+
+&lt;h3 id=&quot;4-発表スライドを作る&quot;&gt;&lt;strong&gt;4&lt;/strong&gt; 発表スライドを作る&lt;/h3&gt;
+&lt;p&gt;1論文につき最大2スライドで資料を作成してください。
+スライドは&lt;strong&gt;16:9&lt;/strong&gt;で作成してください。
+できるだけ図や写真を取り入れることを心がけてください。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;必須事項&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;・論文タイトル&lt;/li&gt;
+  &lt;li&gt;・著者＋所属&lt;/li&gt;
+  &lt;li&gt;・画像（効果的に活用してください）&lt;/li&gt;
+  &lt;li&gt;・Arawdを授与されているか&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/z00a96txqswvfxy/UISTudy_slide_example.pdf?dl=0&quot;&gt;こちら&lt;/a&gt;のスライドのレイアウトを参考に作成してください。&lt;/p&gt;
+
+&lt;h3 id=&quot;5-提出&quot;&gt;&lt;strong&gt;5&lt;/strong&gt; 提出&lt;/h3&gt;
+&lt;p&gt;最終的なスライド構成は「自己紹介スライド（1枚）」＋「論文紹介スライド（1~2枚）」× (発表する論文数)となります。
+自己紹介スライドは発表スライドの1ページ目に挿入してください。&lt;/p&gt;
+
+&lt;p&gt;発表スライドはDropBoxへ提出となります。&lt;strong&gt;PDF形式&lt;/strong&gt;で提出してください。&lt;/p&gt;
+
+&lt;p&gt;ファイル名は担当論文の中で一番小さい論文番号+名前にしてください（例: 担当論文が2と32と54の人→「02_松田暁.pdf」）。&lt;/p&gt;
+
+&lt;p&gt;提出先：&lt;a href=&quot;https://www.dropbox.com/request/sycx7Q4E0lj0DpIm3Usk&quot;&gt;こちら&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;発表用pcについて&quot;&gt;発表用PCについて&lt;/h2&gt;
+&lt;p&gt;発表用PCは運営が用意したものを使用します。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 Oct 2018 00:00:00 +0900</pubDate>
+        <link>/2018/uistudy-2018/</link>
+        <guid isPermaLink="true">/2018/uistudy-2018/</guid>
+        
+        <category>study</category>
+        
+        <category>uist</category>
+        
+        
+        <category>study</category>
+        
+      </item>
+    
+      <item>
+        <title>UIST勉強会#4 開催のお知らせ</title>
+        <description>&lt;h2 id=&quot;概要&quot;&gt;概要&lt;/h2&gt;
+&lt;p&gt;UIST勉強会はThe ACM Symposium on User Interface Software and Technology (UIST)の論文を対象に最新動向の確認や自分の興味関心のある論文の発見を目的としています。&lt;/p&gt;
+
+&lt;p&gt;発表者の皆様には&lt;a href=&quot;https://uist.acm.org/uist2017/&quot;&gt;UIST2017&lt;/a&gt;で発表された論文を1本最大2ページのスライドにまとめ、2分程度で発表してもらいます。&lt;/p&gt;
+
+&lt;h2 id=&quot;日程&quot;&gt;日程&lt;/h2&gt;
+&lt;p&gt;2018年3月3日 15:00~17:30（懇親会 18:00~）&lt;/p&gt;
+
+&lt;h2 id=&quot;会場&quot;&gt;会場&lt;/h2&gt;
+&lt;p&gt;東京工業大学 大岡山キャンパス 西5号館3階 レクチャーシアター&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.kuba.co.jp/sesj2016/pdf/campusmap.pdf&quot;&gt;建物までの詳しい地図&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1864.2089292227445!2d139.68217719380726!3d35.60549209826605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f5305d0b00d1%3A0x74189cc8c3e7599a!2z44CSMTQ1LTAwNjEg5p2x5Lqs6YO95aSn55Sw5Yy655-z5bed55S677yR5LiB55uu77yT77yRIOWkp-WyoeWxseilv--8leWPt-mkqA!5e0!3m2!1sja!2sjp!4v1516879727266&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;地図へのリンクは&lt;a href=&quot;https://goo.gl/maps/Jzq1htzyUsT2&quot;&gt;こちら&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;参加費&quot;&gt;参加費&lt;/h2&gt;
+&lt;p&gt;無料（懇親会3250円）&lt;/p&gt;
+
+&lt;h2 id=&quot;参加方法&quot;&gt;参加方法&lt;/h2&gt;
+&lt;p&gt;UITS勉強会#4には次の2つの方法で参加いただけます。&lt;/p&gt;
+
+&lt;h3 id=&quot;1-発表申し込み&quot;&gt;1. 発表申し込み&lt;/h3&gt;
+&lt;p&gt;次の手順で申し込みをしてください。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1skZE678o7irGPg73rX9XbMwKcxMw0JpgbO-VRddO7-o/edit?usp=sharing&quot;&gt;こちら&lt;/a&gt;から発表したい論文の担当者名記入列に自分の名前を記入する。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; - &lt;a href=&quot;https://goo.gl/forms/L5onuTt3wf87qLkA2&quot;&gt;こちら&lt;/a&gt;から発表申込をしてください。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;以上で完了、当日お待ちしております。
+発表スライドの提出をお忘れなく！&lt;/p&gt;
+
+&lt;p&gt;提出期限は &lt;strong&gt;2018/2/28&lt;/strong&gt; です。&lt;/p&gt;
+
+&lt;p&gt;発表形式はページ下の&lt;strong&gt;発表について&lt;/strong&gt;を御覧ください。&lt;/p&gt;
+
+&lt;h3 id=&quot;2-参加申し込み&quot;&gt;2. 参加申し込み&lt;/h3&gt;
+
+&lt;p&gt;聴講のみの参加も受け付けております。
+&lt;a href=&quot;https://goo.gl/forms/L5onuTt3wf87qLkA2&quot;&gt;こちら&lt;/a&gt;から聴講者として申込をしてください。&lt;/p&gt;
+
+&lt;h2 id=&quot;懇親会&quot;&gt;懇親会&lt;/h2&gt;
+&lt;p&gt;勉強会後に懇親会を予定しております。
+参加登録は下記フォームおよび&lt;a href=&quot;http://ptix.at/mkA1Sl&quot;&gt;こちら&lt;/a&gt;よりお願い致します。&lt;/p&gt;
+
+&lt;iframe frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://peatix.com/event/345451/share/widget?z=1&amp;amp;t=1&amp;amp;a=1&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;幹事&quot;&gt;幹事&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;松田 暁（東京大学）&lt;/li&gt;
+  &lt;li&gt;宮藤 詩緒（東京工業大学）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;（カナ順）&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:akira.matsuda.ut@gmail.com&quot;&gt;お問い合わせ&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;発表について&quot;&gt;発表について&lt;/h2&gt;
+&lt;p&gt;1論文1分30秒〜2分で発表をお願いします。&lt;/p&gt;
+
+&lt;p&gt;時間内に論文の紹介を終えられない場合は、「詳しくは論文を読んでください！」と発表を終えても構いません。&lt;/p&gt;
+
+&lt;h2 id=&quot;発表スライドの作り方&quot;&gt;発表スライドの作り方&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-論文データの取得&quot;&gt;&lt;strong&gt;1&lt;/strong&gt; 論文データの取得&lt;/h3&gt;
+&lt;p&gt;論文はACM Digital Libraryで見つけることが出来ます。&lt;/p&gt;
+
+&lt;p&gt;Proceedingsは&lt;a href=&quot;https://dl.acm.org/citation.cfm?id=3126594&quot;&gt;こちら&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h3 id=&quot;2-awardsかを調べる&quot;&gt;&lt;strong&gt;2&lt;/strong&gt; Awardsかを調べる&lt;/h3&gt;
+&lt;p&gt;担当論文が何らかのAwardを授与されている場合はその旨を記載してください。&lt;/p&gt;
+
+&lt;p&gt;Awardを授与されている論文は&lt;a href=&quot;https://uist.acm.org/uist2017/&quot;&gt;こちら&lt;/a&gt;のAwardsの欄を御覧ください。&lt;/p&gt;
+
+&lt;h3 id=&quot;3-自己紹介スライドを作る&quot;&gt;&lt;strong&gt;3&lt;/strong&gt; 自己紹介スライドを作る&lt;/h3&gt;
+&lt;p&gt;今回の勉強会では、参加者の交流を深めるため、発表の初めに簡単な自己紹介をすることを推奨しています。
+自分の研究やお仕事の内容など自由に1スライドにまとめてください。
+発表の初めに30秒以内で自己紹介をしてください。&lt;/p&gt;
+
+&lt;h3 id=&quot;4-発表スライドを作る&quot;&gt;&lt;strong&gt;4&lt;/strong&gt; 発表スライドを作る&lt;/h3&gt;
+&lt;p&gt;1論文につき最大2スライドで資料を作成してください。
+スライドは&lt;strong&gt;16:9&lt;/strong&gt;で作成してください。
+できるだけ図や写真を取り入れることを心がけてください。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;必須事項&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;・論文タイトル&lt;/li&gt;
+  &lt;li&gt;・著者＋所属&lt;/li&gt;
+  &lt;li&gt;・画像（効果的に活用してください）&lt;/li&gt;
+  &lt;li&gt;・Arawdを授与されているか&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/sh/bqiotcp24ofvs1c/AAALW84-zisw3KGfezZ3hqPra?dl=0&quot;&gt;こちら&lt;/a&gt;のスライドのレイアウトを参考に作成してください。&lt;/p&gt;
+
+&lt;h3 id=&quot;5-提出&quot;&gt;&lt;strong&gt;5&lt;/strong&gt; 提出&lt;/h3&gt;
+&lt;p&gt;最終的なスライド構成は「自己紹介スライド（1枚）」＋「論文紹介スライド（1~2枚）」× (発表する論文数)となります。
+自己紹介スライドは発表スライドの1ページ目に挿入してください。&lt;/p&gt;
+
+&lt;p&gt;発表スライドはDropBoxへ提出となります。&lt;strong&gt;PDF形式&lt;/strong&gt;で提出してください。&lt;/p&gt;
+
+&lt;p&gt;ファイル名は担当論文の中で一番小さい論文番号+名前にしてください（例: 担当論文が2と32と54の人→「02_松田暁.pdf」）。&lt;/p&gt;
+
+&lt;p&gt;提出先：&lt;a href=&quot;https://www.dropbox.com/request/AlDzUcm90PLBLiXKM4sw&quot;&gt;こちら&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;発表用pcについて&quot;&gt;発表用PCについて&lt;/h2&gt;
+&lt;p&gt;発表用PCは運営が用意したものを使用します。&lt;/p&gt;
+</description>
+        <pubDate>Thu, 25 Jan 2018 00:00:00 +0900</pubDate>
+        <link>/2018/uistudy-4/</link>
+        <guid isPermaLink="true">/2018/uistudy-4/</guid>
+        
+        <category>study</category>
+        
+        <category>uist</category>
+        
+        
+        <category>study</category>
+        
+      </item>
+    
+  </channel>
+</rss>
